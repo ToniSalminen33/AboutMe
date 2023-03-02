@@ -8,6 +8,7 @@ Currently I'm studying in LAB University of Applied Science in Lahti for a Bache
 Currently my expertise consists of:<br>
 | Language | Expertise |
 |-----:|-----------|
+|     Next.js| :green_square::green_square::green_square::black_large_square::black_large_square:|
 |     React| :green_square::green_square::green_square::black_large_square::black_large_square:|
 |     C#| :green_square::green_square::green_square::green_square::black_large_square:|
 |     WPF| :green_square::green_square::green_square::green_square::black_large_square:    |
